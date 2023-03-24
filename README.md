@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/97224401/227532070-b946390f-8073-4ec5-
 
 ## Outputs
 ### Modelled coupling and rhythmic adaptation in the Bill Evans trio
-![Modelled coupling](https://raw.githubusercontent.com/HuwCheston/source-seperation-test/main/output/modelled_coupling.png "Modelled coupling in Peri's Scope")
+![Modelled coupling](https://raw.githubusercontent.com/HuwCheston/source-seperation-test/main/output/modelled_coupling_diagram.png "Modelled coupling in Peri's Scope")
 
 Both Scott LeFaro (bass) and Paul Motian (drums) are tightly coupled to each other, but neither follow the soloist, Bill Evans (piano). Evans, meanwhile, adapts evenly to the bass and drums.
 
