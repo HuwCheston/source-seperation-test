@@ -2,7 +2,6 @@
 
 ![Full diagram](https://user-images.githubusercontent.com/97224401/228294426-ebb03fab-94b2-42f1-8915-e393701e29fd.png)
 
-
 > A proof-of-concept pipeline for modelling interaction in the jazz rhythm section using source-seperated commercial audio recordings
 ## Introduction
 This repository introduces a proof-of-concept pipeline for modelling interaction and rhythmic adaptation in commercial jazz recordings using a process of source separation, automatic onset detection, and linear phase correction modelling.  Whereas previously researchers have been restricted to multi-tracked recordings they have made themselves in experiments, this pipeline is designed to enable the modelling of ensemble interaction in commercial audio recordings.  
@@ -11,8 +10,7 @@ This proof-of-concept uses a 30-second audio excerpt from "Peri's Scope" by the 
 
 You can listen to the isolated, source-separated double bass performance below, with each 'click' corresponding to a detected onset in the perofrmance:
 
-https://user-images.githubusercontent.com/97224401/227532070-b946390f-8073-4ec5-ac60-8d4877600db5.mp4
-
+https://user-images.githubusercontent.com/97224401/227532684-1d76e1ae-7e2e-4617-b364-f61e322de7c0.mp4
 
 ## Usage
 <a target="_blank" href="https://colab.research.google.com/github/HuwCheston/source-seperation-test/blob/main/source_seperation_test.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
